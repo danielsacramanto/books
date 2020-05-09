@@ -77,3 +77,15 @@ yarn electron:serve
 ## License
 
 [GNU Affero General Public License v3.0](LICENSE)
+
+
+
+
+
+
+
+
+
+
+
+* [Quoteish](https://www.quoteish.org/) - A collection of famous quotes and sayings.
